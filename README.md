@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zareen Rahman!!</h1>
+<h1 align="center">Hello there 👋, This is Zareen Rahman!!</h1>
 <h3 align="center">🔍 A curious mind from the Heart of Bangladesh | 🚀 Passionate about food and innovation | 🌐 Explorer of new technologies</h3>
 
 
