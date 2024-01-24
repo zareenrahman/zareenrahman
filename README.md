@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zareenrahman/](https://www.linkedin.com/in/zareenrahman/)
 
-- ⚡ Fun fact **I'm always on the lookout for new things to learn and love exploring the exciting world of technology. From coding in Python to delving into AI, my curiosity knows no limits. I believe that each line of code is a step toward an innovative future! 🚀**
+- ⚡ Fun fact **I'm always on the lookout for new things to learn and love exploring the exciting world of technology. From coding in Python to delving into AI, my curiosity knows no limits. I believe that each line of code is a step toward an innovative future!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
