@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zareen Rahman!!</h1>
-<h3 align="center">!) 🔍 A curious mind from the Heart of Bangladesh | 🚀 Passionate about food and innovation | 🌐 Explorer of new technologies</h3>
+<h3 align="center">🔍 A curious mind from the Heart of Bangladesh | 🚀 Passionate about food and innovation | 🌐 Explorer of new technologies</h3>
 
 
 - 🌱 I’m currently learning **Python, Data Science, AI**
